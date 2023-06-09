@@ -1,6 +1,6 @@
 # Table configurator R3F tutorial starter
 
-This is the starting project to build the Table Configurator using React Three Fiber
+its donw by SureFace to Sanjar bro 
 
 
 
@@ -10,6 +10,7 @@ This is the starting project to build the Table Configurator using React Three F
 ## Setup & run the starter pack
 
 ```
-yarn
-yarn dev
+npm install
+
+npm run dev
 ```
